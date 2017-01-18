@@ -121,6 +121,19 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
 }
+.btn-sm {
+  color: white;
+  /*background-color: #fed136;
+  border-color: #fed136;*/
+  background-color: #81d8d0;
+  border-color: #81d8d0;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  border-radius: 3px;
+  font-size: 12px;
+  padding: 5px 10px;
+}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
